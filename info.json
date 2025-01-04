@@ -1,0 +1,45 @@
+{
+	"name": "snouz-snouztorio",
+	"title": "Snouztorio - Space age continued",
+	"description": "(WIP BETA) Compilation of mods that mesh well with Space Age, functionally and visually, and keep the overall balance.",
+	"author": "Snouz",
+	"version": "0.0.1",
+	"homepage": "https://github.com/snouz/snouz-snouztorio",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base",
+		"space-age >= 2.0.0",
+		
+		"maraxsis",
+		"no-maraxsis-gatekeep-promethium",
+		"Cerys-Moon-of-Fulgora",
+
+		"vtk-cannon-turret",
+		"GunEquipment",
+		"snouz-handcannon",
+		"aai-signal-transmission",
+		"CircuitLaunchableRockets",
+		"spoilage-scanner",
+		"Flare Stack",
+		"snouz-big-accumulator",
+		"snouz-big-solar-panel",
+		"snouz-big-substation",
+
+		"Better_Starmap_Background",
+		"visible-planets",
+
+
+		"smooth_platform_walls",
+		"EnableWhen",
+
+		
+		"? hd_planets_renders",
+		"? mythic-quality"
+	],
+	"quality_required": true,
+	"space_travel_required": true,
+	"spoiling_required": true,
+	"freezing_required": true,
+	"segmented_units_required": true,
+	"expansion_shaders_required": true
+}
