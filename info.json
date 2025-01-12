@@ -1,7 +1,7 @@
 {
 	"name": "snouz-snouztorio",
 	"title": "Snouztorio - Space age continued",
-	"description": "(WIP BETA) Compilation of mods that mesh well with/post Space Age, functionally, balance-wise, visually, and don't mess with your space-age save",
+	"description": "(WIP) Carefully curated mods that mesh well along and post Space Age. Balanced, simple, coherent and non-intrusive",
 	"author": "Snouz",
 	"version": "0.1.0",
 	"homepage": "https://github.com/snouz/snouz-snouztorio",
@@ -31,8 +31,6 @@
 		
 		"Better_Starmap_Background",
 		"visible-planets",
-
-
 		"smooth_platform_walls",
 		"EnableWhen",
 
