@@ -3,7 +3,7 @@
 	"title": "Snouztorio - Space age continued",
 	"description": "(WIP) Carefully curated mods that mesh well along and post Space Age. Balanced, simple, coherent and non-intrusive",
 	"author": "Snouz",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"homepage": "https://github.com/snouz/snouz-snouztorio",
 	"factorio_version": "2.0",
 	"dependencies": [
@@ -32,11 +32,7 @@
 		"Better_Starmap_Background",
 		"visible-planets",
 		"smooth_platform_walls",
-		"EnableWhen",
-
-		
-		"? hd_planets_renders",
-		"? mythic-quality"
+		"EnableWhen"
 	],
 	"quality_required": true,
 	"space_travel_required": true,
