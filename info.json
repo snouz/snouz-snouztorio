@@ -1,13 +1,15 @@
 {
 	"name": "snouz-snouztorio",
 	"title": "Snouztorio - Space age continued",
-	"description": "(WIP BETA) Compilation of mods that mesh well with Space Age, functionally and visually, and keep the overall balance.",
+	"description": "(WIP BETA) Compilation of mods that mesh well with/post Space Age, functionally, balance-wise, visually, and don't mess with your space-age save",
 	"author": "Snouz",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"homepage": "https://github.com/snouz/snouz-snouztorio",
 	"factorio_version": "2.0",
 	"dependencies": [
-		"base",
+		"base >= 2.0.0",
+		"quality >= 2.0.0",
+		"elevated-rails >= 2.0.0",
 		"space-age >= 2.0.0",
 		
 		"maraxsis",
@@ -20,11 +22,13 @@
 		"aai-signal-transmission",
 		"CircuitLaunchableRockets",
 		"spoilage-scanner",
+		"pollution-detector",
 		"Flare Stack",
 		"snouz-big-accumulator",
 		"snouz-big-solar-panel",
-		"snouz-big-substation",
+		"se-space-trains",
 
+		
 		"Better_Starmap_Background",
 		"visible-planets",
 
