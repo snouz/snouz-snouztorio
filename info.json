@@ -3,7 +3,7 @@
 	"title": "Snouztorio - Space age continued",
 	"description": "(WIP) Carefully curated mods that mesh well along and post Space Age. Balanced, simple, coherent and non-intrusive",
 	"author": "Snouz",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"homepage": "https://github.com/snouz/snouz-snouztorio",
 	"factorio_version": "2.0",
 	"dependencies": [
@@ -15,6 +15,7 @@
 		"maraxsis",
 		"no-maraxsis-gatekeep-promethium",
 		"Cerys-Moon-of-Fulgora",
+		"Moshine >= 0.2.0",
 
 		"vtk-cannon-turret",
 		"GunEquipment",
